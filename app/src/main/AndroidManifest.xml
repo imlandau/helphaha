@@ -20,8 +20,16 @@
         <activity
             android:name=".activities.RegisterActivity"
             android:screenOrientation="portrait" />
+
         <activity
             android:name=".activities.UsersListActivity"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".activities.CartActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.Cart"
             android:screenOrientation="portrait" />
     </application>
 
